@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 　          ＼二つ
 ```
 <div align="center">
-    <h3>Here is Alex 👏</h3>
+    <h3>Alex is here 👏</h3>
     <h4>I'm Junior PHP developer</h4>
     <a href="https://t.me/alexyelking">
 
