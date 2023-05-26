@@ -26,10 +26,9 @@ Here are some ideas to get you started:
 　          ＼二つ
 ```
 
-### Here is Alex 👏
-## I'm Junior PHP developer :octocat:
+## Here is Alex 👏
+### I'm Junior PHP developer :octocat:
 
-<div align="center" markdown="1">
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=alexyelking)](https://github.com/anuraghazra/github-readme-stats)
-</div>
+
 
