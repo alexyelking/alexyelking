@@ -28,6 +28,7 @@ Here are some ideas to get you started:
 <div align="center">
     <h3>Alex is here 👏</h3>
     <h4>I'm Junior PHP developer</h4>
+    <h5>(Mostly Backend)</h5>
     <a href="https://t.me/alexyelking">
 
 ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
@@ -65,7 +66,7 @@ Here are some ideas to get you started:
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 
 <div>
-    <h3 align="center">Familiar with Version control system:</h3>
+    <h3 align="center">Version control system:</h3>
 </div>
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
