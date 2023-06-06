@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 <hr>
 <div align="center">
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=alexyelking&theme=nord&border_radius=25&langs_count=7)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=alexyelking&theme=nord&border_radius=25&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 <hr>
 
