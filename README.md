@@ -27,8 +27,7 @@ Here are some ideas to get you started:
 ```
 <div align="center">
     <h3>Alex is here 👏</h3>
-    <h4>I'm Junior PHP developer</h4>
-    <h5>(Mostly Backend)</h5>
+    <h4>Laravel is my hobby</h4>
     <a href="https://t.me/alexyelking">
 
 ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
